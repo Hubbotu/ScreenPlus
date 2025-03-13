@@ -1,6 +1,6 @@
 ScreenPlus.vars["localTbl"] = {}
 
-if (GetLocale() == "frFR") then
+if (GetLocale() == "ruRU") then
 	ScreenPlus.vars["localTbl"]["Switch 'camera' mode"] = "Переключить в режим 'камеры'";
 	ScreenPlus.vars["localTbl"]["Take a screen snapshot"] = "Сделать снимок экрана";
 	ScreenPlus.vars["localTbl"]["Display settings"] = "Показать настройки";
